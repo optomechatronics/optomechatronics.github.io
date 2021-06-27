@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Xiao Xiao&#39;s Website</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2020-09-22T16:41:28.000Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Xiao Xiao (PhD)</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/06/23/hello-world/"/>
+    <id>http://example.com/2021/06/23/hello-world/</id>
+    <published>2021-06-23T12:28:11.549Z</published>
+    <updated>2020-09-22T16:41:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Home</title>
+    <link href="http://example.com/2021/03/21/Home/"/>
+    <id>http://example.com/2021/03/21/Home/</id>
+    <published>2021-03-21T11:38:03.000Z</published>
+    <updated>2021-06-27T03:42:40.807Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Biography"><a href="#Biography" class="headerlink" title="Biography"></a>Biography</h1><div style="text-align:justify">Dr. Xiao Xiao received the B.S. and M.S. degrees from the Shandong University of Technology, Shandong, China, in 2010 and2012, respectively, and the Ph. D degree from University of Macau, Macau, China, in 2017, all in Electromechanical Engineering. He was a Research Fellow with the Department of Biomedical Engineering, National University of Singapore, Singapore. He is currently a Research Assistant Professor with the Department of Electrical and ElectronicEngineering, Southern University of Science and Technology, China.  <p>In recent years, Dr. Xiao Xiao has participated in one Singapore Technology Acceleration Program, one National key R &amp; D project, one NFSC project, and two Macao FDCT projects. He has published more than 30 international journal and conference papers and contributed 4 book chapters. He has applied 9 Chinese patents, 2 PCT patents, and 1 Singapore patent, among which 4 patents had been authorized.</p><h1 id="Affiliations"><a href="#Affiliations" class="headerlink" title="Affiliations"></a>Affiliations</h1><p>Research Assistant Professor, Southern University of Science and Technology, Shenzhen, China.<br>Web: <a href="https://faculty.sustech.edu.cn/xiaox/en/">https://faculty.sustech.edu.cn/xiaox/en/</a></p><h1 id="Research-Interests"><a href="#Research-Interests" class="headerlink" title="Research Interests"></a>Research Interests</h1><ol><li>Biomedical opto-mechatronics</li><li>Minimally invasive surgery robot</li><li>Micro/nano manipulation and positioning robot</li><li>Miniature-sized robotic system design and control</li></ol><h1 id="Professional-Activities"><a href="#Professional-Activities" class="headerlink" title="Professional Activities"></a>Professional Activities</h1><ol><li>Associate Editor, The 2021 IEEE International Conference on Advanced Robotics and Mechatronics (ICARM 2021)  </li><li>Session Chair, The 2021 International Conference on Robotics and Automation (ICRA 2021)</li><li>Junior Reviewer, IEEE/ASME Transactions on Mechatronics (TMECH Junior Reviewers Program 2020.07.01-2022.07.01)</li><li>Senior Member, Chinese Mechanical Engineering Society</li><li>Review Editor, Frontiers in Robotics and AI</li></ol><h1 id="Teaching"><a href="#Teaching" class="headerlink" title="Teaching"></a>Teaching</h1><ol><li>FYP Mentor. Final Year Project-ME4101A, 2017/2018, “Image based guidance for snake robot in confined environments,” A01A0133919Y, Wu Yifan.</li><li>FYP Mentor. Final Year Project-ME4101A, 2017/2018, “Control and end-effector force sensing of 4-DoFs concentric tube robot,” A0125665, Niam Jen Yang.</li><li>Teaching Assistant. EIM 306, 2018/2019, “Designing a bending needle system for kidney biopsy,” A0161944B, Alicia Ng Mei Shen, A0157252H, Ashrina Majitha Binte Sultan A, and A0168383U, Frederick Ching. </li><li>Teaching Assistant. The Biomedical Engineering Design Teams-BN3101, 2016/2017, “Design of a new kidney biopsy device with hemostatic function,” Won “The most innovative design award”, “The best presentation award”, and “The most elegant instrumentation award” among 12 BN3101 teams.</li><li>Teaching Assistant. ELME-706 Mechatronics, 2015/2016, Dept. of Electromechanical Engineering, University of Macau, Macao.</li></ol><h1 id="Awards-and-Honors"><a href="#Awards-and-Honors" class="headerlink" title="Awards and Honors"></a>Awards and Honors</h1><ol><li><strong>Xiao Xiao</strong>, Kirthika Senthil Kumar, Catherine Cai Jiayi, Liang Qiu, RoNi: Robotic Needle Intervention with Portable Positioning System. <em>The Global Innovation Design Competition of Medical Robotics (MRC2019)</em>, Global, Best Structure, 12.09-12.11, 2019, Shanghai, China.</li><li>Xiaoyi Gu, Changsheng Li, <strong>Xiao Xiao</strong>, Design of an Adaptive and Compliant Transoral Robotic Surgery (ACTOR) System. <em>The Engineering Medical Innovation Global Competition (Emedic Global 2017)</em>, Global, Gold Award (1/17), 09.29-09.30, 2017, Taipei, Taiwan.</li></ol><h1 id="Reviewership-for-Journals-and-Conferences"><a href="#Reviewership-for-Journals-and-Conferences" class="headerlink" title="Reviewership for Journals and Conferences"></a>Reviewership for Journals and Conferences</h1><ol><li>IEEE/ASME Transactions on Mechatronics (TMECH)</li><li>IEEE Transactions on Industrial Informatics (TII)</li><li>International Journal of Control, Automation and Systems (IJCAS)</li><li>Review of Scientific Instruments (RSI)</li><li>The International Journal of Advanced Manufacturing Technology (JAMT)</li><li>IEEE Access</li><li>IEEE Robotics and Automation Letters (RAL)</li><li>Frontiers in Robotics and AI</li><li>2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019), November 3- 8, 2019, Macau, China. </li><li>2019 IEEE International Conference on Automation Science and Engineering (CASE 2019), August 22-26, 2019, Vancouver, Canada.</li><li>2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018), October 1-5, 2018, Madrid, Spain. </li><li>2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2017), September 24-28, 2017, Vancouver, Canada. </li><li>2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2016), October 9-14, 2016, Daejeon, Korea. </li><li>IEEE International Conference on Robotics and Automation (ICRA 2016), May 16-21, 2016, Stockholm, Sweden.</li><li>IEEE International Conference on Robotics and Automation (ICRA 2015), May 26-30, 2015, Seattle, Washington.</li><li>2016 IEEE International Conference on Advanced Intelligent Mechatronics (AIM 2016), July 12–15, 2016, Banff, Alberta, Canada.</li><li>2014 IEEE International Conference on Robotics and Automation (ICRA 2014), May 31 - June 7, 2014, Hong Kong, China.</li><li>2014 IEEE International Conference on Automation Science and Engineering (CASE 2014), August 18-22, 2014, Taipei, Taiwan.</li><li>2014 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2014), September 14–18, 2014, Chicago, Illinois, USA.</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Biography&quot;&gt;&lt;a href=&quot;#Biography&quot; class=&quot;headerlink&quot; title=&quot;Biography&quot;&gt;&lt;/a&gt;Biography&lt;/h1&gt;&lt;div style=&quot;text-align:justify&quot;&gt;
+Dr. Xiao Xia</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
